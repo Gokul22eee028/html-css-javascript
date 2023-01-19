@@ -1,0 +1,45 @@
+nav{
+    background-color: blue;
+    text-align: center;
+}
+ul{
+    color: white;
+    display: inline;
+}
+li{
+    display: inline;
+    padding-left: 5px;
+}
+
+img{
+    padding-left: 450px;
+    float: left;
+    padding-right: 30px;
+}
+header{
+    display:inline;
+}
+#li{
+    color: black;
+    padding-right: 10px;
+    
+}
+#q1{
+    display: inline;
+}
+span{
+    color: blue;
+}
+select{
+    border: none;
+}
+#lii{
+    color: rgb(7, 113, 76);
+    
+}
+#li1{
+    color:darkblue;
+}
+#op{
+    text-align: center;
+}
